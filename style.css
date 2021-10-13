@@ -1,14 +1,13 @@
 
-#logo, .texto, .fecha {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
 .grande img {
     min-height: 350px;
     min-width: 350px;
   
 }
 
+#logo, .texto, .fecha {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 .nav-pills .nav-link.active {
     background-color: #706f6f !important;
